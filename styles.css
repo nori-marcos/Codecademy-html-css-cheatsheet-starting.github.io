@@ -1,0 +1,48 @@
+
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #FFEAC6;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #4423FB;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead th {
+    border: 1px solid black;
+}
+
+table td {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.code {
+    background-color: aliceblue;
+    font-family: monospace;
+    text-align: left;
+    color: #F81930;
+    font-weight: bold;
+}
+
+thead {
+    background-color: #4423FB;
+    color: white;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
